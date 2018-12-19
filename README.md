@@ -16,7 +16,7 @@ chmod +x start-recording.sh
 ```
 
 
-###  example
+###  Example
 
 ```bash
 sh start-recording.sh 10 -f
@@ -39,6 +39,11 @@ temp.txt
 51,8
 51,4
 ```
+
+###  Example for virsualise the data
+[Chart Example](https://i.imgur.com/qlW1kEl.png)
+
+
 ### Options
 
  * `<min>` How long should the program run/log in minutes (default 1 minute).
