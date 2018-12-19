@@ -40,7 +40,7 @@ temp.txt
 51,4
 ```
 
-###  Example for virsualise the data
+###  Example for visualise the data
 [Chart Example](https://i.imgur.com/qlW1kEl.png)
 
 
