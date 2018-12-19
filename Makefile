@@ -1,4 +1,3 @@
-
 CC     = cc
 CFLAGS = -O2 -Wall
 INC    = -framework IOKit
