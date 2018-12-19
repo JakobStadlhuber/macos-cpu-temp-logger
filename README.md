@@ -1,6 +1,6 @@
 # MacOS/OSX CPU Temp Logger
 
-Outputs and logs CPU temperature for MacOS over a specific period of time.
+Outputs and logs CPU temperatures for MacOS over a specific period of time.
 
 ## Usage 
 
